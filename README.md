@@ -1,6 +1,6 @@
 # Email Marketing Analysis Power BI Dashboard
 
-![Final_report](Email_Marketing_final_report.png)
+![Email_marketing_Final_report](Email_Marketing_final_report.png)
 
 
 # 🌐 Overview:
