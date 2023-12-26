@@ -1,5 +1,7 @@
 # Email Marketing Analysis Power BI Dashboard
 
+![Final_report](Email_Marketing_final_report.png)
+
 # 🌐 Overview:
 - This repository hosts a comprehensive Power BI dashboard designed to analyze and visualize data from an email marketing campaign. It offers insights into audience demographics, signup trends based on age, gender, marital status, living status, city, time, and yearly patterns, enabling effective campaign analysis and strategy formulation.
 
@@ -14,6 +16,7 @@
 
 # 🔍 Data Sources:
 -The dashboard utilizes anonymized data obtained from the email marketing campaign's database, ensuring privacy compliance while providing actionable insights.
+[Dataset](Email_Marketing_Analysis.xlsx)
 
 # 🚀 How to Use:
 
